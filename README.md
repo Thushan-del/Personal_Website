@@ -1,61 +1,79 @@
-IT Infrastructure Engineer | Cloud & DevOps Enthusiast | Cybersecurity Learner
+👋 Hi, I'm Thushan Dilanka
+Infrastructure Engineer • Tech Entrepreneur • MSc Student at KTH
 
-Welcome to my GitHub profile! I’m passionate about building reliable infrastructure, automating workflows, and solving real-world IT challenges through modern technologies.
+🚀 Building scalable infrastructure, cloud solutions, and digital products at the intersection of technology, automation, and entrepreneurship.
 
-💡 About Me
-🔧 Experienced in IT Infrastructure, Networking, and System Administration
-☁️ Working with Cloud Platforms, Automation, and Virtualization
-🛡️ Interested in Cybersecurity, Monitoring, and IT Operations
-📚 Continuously learning DevOps, Kubernetes, and Infrastructure as Code
-🌍 Based in Sweden
-🛠️ Tech Stack
+🌍 About Me
 
-💻 Operating Systems
-Windows Server
-Linux (Ubuntu, CentOS)
-☁️ Cloud & Virtualization
+I'm an infrastructure engineer and technology enthusiast with experience across cloud infrastructure, enterprise systems, cybersecurity, and SaaS development.
+
+Currently pursuing an MSc in Technology-Based Entrepreneurship at KTH Royal Institute of Technology in Stockholm, Sweden.
+
+My journey spans across Sri Lanka, Australia, Finland, and Sweden — giving me a global perspective on technology, innovation, and digital transformation.
+
+⚡ What I Work With
+☁️ Cloud & Infrastructure
 Microsoft Azure
 VMware
-Hyper-V
+Windows Server
+Linux Administration
+Active Directory
+
+🔐 Security & Compliance
+CyberArk PAM
+ITIL v3 / v4
+Security Compliance Auditing
+Endpoint Management
 
 ⚙️ DevOps & Automation
-Terraform
-Ansible
-PowerShell
-GitHub Actions
-
-🌐 Networking
-Cisco
-Fortinet
-DNS / DHCP
-VPN
-TCP/IP
-
-📊 Monitoring & Tools
-Grafana
-SCCM
-Active Directory
-Office 365
 ServiceNow
+Splunk
+Jira
+Process Automation
+Low-Code Platforms
+
+🚀 Entrepreneurship & Product Strategy
+SaaS Development
+Venture Capital
+Digital Transformation
+Product Strategy
+Startup Methodology
 
 📌 Featured Projects
+🍽️ La Dolce Vita Restaurant Website
 
-🔹 Infrastructure Automation
+Elegant responsive restaurant website with modern UI/UX and reservation-focused design.
 
-Automated server deployment and configuration to improve operational efficiency.
+🤖 AI Tutorials Application
 
-🔹 Cloud Migration
+Interactive AI learning platform prototype with adaptive tutorials and prompt-based learning.
 
-Worked on cloud-based infrastructure migration projects with focus on security, scalability, and performance.
+🏗️ Adecco Global Steady Infrastructure Project
 
-🔹 Monitoring & Observability
+Enterprise infrastructure and operational continuity project supporting distributed environments.
 
-Implemented monitoring dashboards and alerting systems for proactive incident management.
+📊 GitHub Stats
+🚀 Infrastructure Engineering
+☁️ Cloud Architecture
+🔐 Cybersecurity
+⚙️ Automation
+💡 Entrepreneurship
 
-📈 GitHub Stats
+🎓 Education
+MSc Technology-Based Entrepreneurship — KTH Royal Institute of Technology
+ICT Bioeconomy — Forssa Institute
+Bachelor of Information Technology — Victoria University
 
 🌱 Currently Learning
-Msc
-Advanced Cloud Security
+Kubernetes
+Advanced Azure Architecture
+AI Product Development
+Cloud Security
+Startup & Venture Ecosystems
 
 🤝 Connect With Me
+GitHub: github.com/Thushan-del
+LinkedIn: linkedin.com/in/thu-dilanka
+Email: thushandilanka3@gmail.com
+
+“Building scalable systems and future-focused digital experiences.”
